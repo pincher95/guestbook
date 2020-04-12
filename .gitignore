@@ -1,0 +1,17 @@
+/lab1_kubectl_version1/
+/lab2_kubectl_version2/
+/lab3_helm_install/
+/lab4_tiller_serviceaccount/
+/lab5_helm_chart_version1/
+/lab6_helm_chart_version2/
+/lab7_helm_template_begin/
+/lab7_helm_template_final/
+/lab8_helm_template_begin/
+/lab8_helm_template_final/
+/lab9_helm_template_begin/
+/lab9_helm_template_final/
+/lab10_helm_dependencies_begin/
+/lab10_helm_dependencies_child-parent/
+/lab10_helm_dependencies_exports/
+/lab10_helm_dependencies_final/
+/lab11_helm_repository_begin/
