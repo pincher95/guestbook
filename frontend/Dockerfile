@@ -7,7 +7,7 @@ COPY dist/ .
 
 EXPOSE 4200
 
-COPY ./entryPoint.sh /
+COPY entryPoint.sh /
 RUN chmod +x /entryPoint.sh
 ENTRYPOINT ["sh","/entryPoint.sh"]
 
